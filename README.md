@@ -15,4 +15,4 @@ Project that converts temperatures such as Celsius, Fahrenheit and Kelvin.
 
 # How faithful is this project?
 
-- Learn how to use Switch, While, Double variables and conversion.
+- Learn how to use Switch, While, data types using Double and conversion.
